@@ -13,11 +13,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohd-siddiqul-haque-825020224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohd-siddiqul-haque-825020224/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/mohd__s_haque/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mohd__s_haque/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/siddiqul786" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/siddiqul786" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/mohdshaque777/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/mohdshaque777/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/siddiqamu786/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/siddiqamu786/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohd-siddiqul-haque-825020224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd-siddiqul-haque-825020224" height="30" width="40" /></a>
+<a href="https://instagram.com/mohd__s_haque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohd__s_haque" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/siddiqul786" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="siddiqul786" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mohdshaque777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohdshaque777" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/siddiqamu786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="siddiqamu786" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,4 +26,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddiqulhaque&show_icons=true&locale=en&layout=compact" alt="siddiqulhaque" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddiqulhaque&" alt="siddiqulhaque" /></p>
-
